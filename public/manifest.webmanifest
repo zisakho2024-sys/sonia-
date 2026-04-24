@@ -1,0 +1,18 @@
+{
+  "name": "Sonia Buddy — Smart Bus Routes",
+  "short_name": "Sonia Buddy",
+  "description": "Find live bus routes, schedules and timings across West Bengal with Sonia AI.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0b0c",
+  "theme_color": "#ff6a00",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
